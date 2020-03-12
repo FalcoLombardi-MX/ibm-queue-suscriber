@@ -1,2 +1,2 @@
-# spring-boot-template
-Personal spring-boot template project
+# ibm-queue-suscriber
+Spring-boot  - IBM Queue Subscriber
