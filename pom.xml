@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.aeromexico.bi</groupId>
-    <artifactId>fare-filling-error</artifactId>
+    <groupId>com.mx.ibm.queue</groupId>
+    <artifactId>ibm-queue-suscriber</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>fare-filling-error</name>
+    <name>ibm-queue-suscriber</name>
     <url>http://maven.apache.org</url>
 
     <properties>
